@@ -1,5 +1,5 @@
 
-<img src="images/LOGO Alpha.png" alt="hi" class="inline"/>
+<img src="images/logo_alpha1.png" alt="hi" class="inline"/>
 
 ## Welcome to GitHub Pages
 
