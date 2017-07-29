@@ -1,5 +1,23 @@
 
-<img src="images/logo_alpha1.png" alt="DarkoTHC Logo" class="inline"/>
+<header>
+    	
+    	<div align="left" style="position:static; height: 100%; width: 100%; top:0;left 0;">
+    <img src="images/logo_alpha1.png" alt="DarkoTHC Logo" style="width: 100%; max-width: 300px;">
+</div>
+        <h1 class="header">darkothc.github.io</h1>
+        <p class="header">Static Website Test by DarkoTHC</p>
+		
+        <ul>
+          
+          <li><a class="buttons github" href="https://github.com/darkothc/darkothc.github.io">View On GitHub</a></li>
+        </ul>
+
+        
+          <ul>
+            <li><a class="buttons github" href="https://github.com/darkothc">GitHub Profile</a></li>
+          </ul>
+        
+      </header>
 
 ## Welcome to GitHub Pages
 
