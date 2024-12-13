@@ -1,7 +1,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Password Decipher</title>
+    <title>DarkoTHC Messaging</title>
     <style>
         body {
             font-family: Arial, sans-serif;
