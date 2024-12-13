@@ -45,7 +45,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Passworded Message Decipher</h1>
+        <h1>DarkoTHC Messaging</h1>
         <input type="password" id="passwordInput" placeholder="Enter password">
         <br>
         <button onclick="checkPassword()">Submit</button>
