@@ -60,7 +60,7 @@
 
             // Change this to your desired password and message
             const correctPassword = "Pa55word";
-            const successMessage = "20-56-74/n53745279";
+            const successMessage = "20-56-74\n53745279";
             const failureMessage = "Incorrect password. Please try again.";
 
             if (password === correctPassword) {
