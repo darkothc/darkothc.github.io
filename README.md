@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -61,7 +59,7 @@
 
             // Change this to your desired password and message
             const correctPassword = "secret123";
-            const successMessage = "Access Granted! Welcome!";
+            const successMessage = "20-56-74" <br> "53745279";
             const failureMessage = "Incorrect password. Please try again.";
 
             if (password === correctPassword) {
