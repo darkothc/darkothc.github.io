@@ -58,8 +58,8 @@
             const message = document.getElementById('message');
 
             // Change this to your desired password and message
-            const correctPassword = "secret123";
-            const successMessage = "20-56-74" <br> "53745279";
+            const correctPassword = "Pa55word";
+            const successMessage = "20-56-74<br>53745279";
             const failureMessage = "Incorrect password. Please try again.";
 
             if (password === correctPassword) {
