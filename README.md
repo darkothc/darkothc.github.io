@@ -45,7 +45,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Password Decipher</h1>
+        <h1>Passworded Meessage Decipher</h1>
         <input type="password" id="passwordInput" placeholder="Enter password">
         <br>
         <button onclick="checkPassword()">Submit</button>
